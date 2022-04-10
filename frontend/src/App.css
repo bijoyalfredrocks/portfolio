@@ -28,3 +28,11 @@
   z-index: 0;
 }
 
+.page-heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  position: relative;
+  z-index: 2;
+}
